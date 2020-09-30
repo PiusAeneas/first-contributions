@@ -19,7 +19,6 @@
 - [Jaspar Ifesinachi](https://github.com/if3chi)
 - [Elly Howells](https://github.com/EJHowells)
 - [Will Guo]
-- [Ayush Joshi](https://github.com/AyushJoshi2001)
 - [SHREY Maurya]
 - [Adarsh Kumar](https://github.com/adarsh-k-tiwari)
 - [Mohit Singh Chauhan](https://github.com/MohitSinghChauhan)
@@ -5119,4 +5118,5 @@ Keshav goel
 - [Nadeem Zaya](https://github.com/nadeemreflexis)
 - [Rubi Singh](https://github.com/rubisingh2020)
 - [John Wesley Kommala](https://github.com/JohnWesleyK)
+- [PiusAeneas] (https://github/piusaeneas)
 - [Ajay Mittal](https://github.com/ajaymittal2020)
